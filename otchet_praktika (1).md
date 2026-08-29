@@ -102,7 +102,7 @@
 | Клеммы Vin / Vout / GND | — | Точки подключения источника питания, нагрузки и общего провода схемы. |
 
 #### Описание схемы подключения
-![Фотография схемы LM317](https://github.com/pupsik0053-dot/Ot4et_KAMAL/blob/main/foto_raboty_1.jpg)
+![Фотография схемы LM317](https://github.com/pupsik0053-dot/Ot4et_KAMAL/blob/main/p_16_skhema.jpg)
 
 **Рис. 5.** Фотография схемы LM317
 
